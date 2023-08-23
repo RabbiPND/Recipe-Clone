@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-image: url(giphy.gif);
+    font-family: 'Orbitron', sans-serif;
+}
+
+img{
+    border-radius: 50%;
+    border: 5px solid yellow;
+}
+
+#structure{
+    width: 900px;
+    margin: 0px auto;
+    display: block;
+}
+
+#First{
+    border: 5px solid black;
+    color:beige;
+    background: black;
+}
+
+#Second{
+    border: 5px solid yellow;
+    color:black;
+    background: yellow;
+}
+
+ol{
+    display:block;
+    width: 700px;
+    margin: 0px auto;
+}
+
+ul{
+    display: block;
+    width: 250px;
+    margin: 0px auto
+}
+
+img{
+    width: 300px;
+}

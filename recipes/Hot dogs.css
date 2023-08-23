@@ -1,0 +1,44 @@
+img{
+    width: 300px;
+}
+
+body{
+    text-align: center;
+    background-image: url(h\ dogs.gif);
+    font-family: 'Orbitron', sans-serif;
+}
+
+img{
+    border-radius: 50%;
+    border: 5px solid rgb(64, 226, 0);
+}
+
+#structure{
+    width: 900px;
+    margin: 0px auto;
+    display: block;
+}
+
+#first{
+    border: 5px solid black;
+    color:beige;
+    background: black;
+}
+
+#second{
+    border: 5px solid rgb(64, 226, 0);
+    color: black;
+    background: rgb(64, 226, 0);
+}
+
+ol{
+    display: inline-block;
+    width: 500px;
+    margin: 0px auto;
+}
+
+ul{
+    display: block;
+    width: 150px;
+    margin: 0px auto
+}

@@ -1,0 +1,44 @@
+img{
+    width: 300px;
+}
+
+body{
+    text-align: center;
+    background-image: url(fries.gif);
+    font-family: 'Orbitron', sans-serif;
+}
+
+img{
+    border-radius: 50%;
+    border: 5px solid rgb(244, 85, 0);
+}
+
+#structure{
+    width: 900px;
+    margin: 0px auto;
+    display: block;
+}
+
+#first{
+    border: 5px solid black;
+    color:beige;
+    background: black;
+}
+
+#second{
+    border: 5px solid rgb(244, 85, 0);
+    color:black;
+    background: rgb(244, 85, 0);
+}
+
+ol{
+    display:block;
+    width: 150px;
+    margin: 0px auto;
+}
+
+ul{
+    display: block;
+    width: 150px;
+    margin: 0px auto
+}
